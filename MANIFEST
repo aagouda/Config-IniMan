@@ -1,0 +1,5 @@
+Makefile.PL
+MANIFEST
+README
+t/Config-IniMan.t
+lib/Config/IniMan.pm
